@@ -1,0 +1,42 @@
+.mb-2 a{
+    color: #000;
+    font-size: 20px;
+}
+.mb-2 a:hover{
+    color: #f00;
+}
+.icon-author{
+     padding-left: 25px;
+     background: url(../../images/icon-people-new.png) no-repeat 0 0px;
+     color: #999;
+ }
+
+.tag-list{
+    padding-left: 18px;
+    background: url(../../images/icon-tag-new.png) no-repeat 0 3px;
+    color: #999;
+}
+.mb-0 a{color: #999;}
+.mb-0 a:hover{color: #f00;}
+.item{
+    border-bottom:1px dotted #ccc;
+}
+.list-decimal {
+    background: url(../../images/list-decimal.png) no-repeat 0 9px;
+}
+
+.list-decimal a {
+    padding-left: 20px;
+    position: relative;
+    line-height: 30px;
+    display: block;
+    font-size: 14px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: middle;
+    max-width: 100%;
+    color: #000;
+}
+.list-decimal a:hover{color: #f00;}
+

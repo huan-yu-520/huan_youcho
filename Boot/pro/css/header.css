@@ -1,0 +1,11 @@
+/*修改主导航的压缩*/
+ul.nav>li.nav.item>a:hover{cursor: pointer;}
+a{color:black;}
+.hover_red:hover{color: red;}
+.a_action:hover{background: #ef584f;}
+.nav .active{background: #ef584f;}
+.a_position{
+    position: absolute;
+    top:100px;
+    left:900px;
+}

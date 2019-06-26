@@ -1,0 +1,110 @@
+.my_bg{
+    background-color: rgba(0,0,0,0.3);
+    top:268px;
+}
+.my_bg1{
+    top:300px;
+}
+.my_bg a{color:#fff;}
+.my_bg a:hover{
+    color: #f00;
+}
+.carousel-indicators{
+    bottom:-10px;
+}
+.carousel-indicators li{
+    width:10px;height:10px;
+    background: #fff;
+    margin-left:10px;
+    margin-right:10px;
+    border-radius:50%;
+}
+.carousel-indicators .active{background: #f00;}
+
+.position-relative a{top:10px;left:205px;}
+.text-truncate a{
+    color: #000;
+}
+.text-truncate a:hover{
+    color: #f00;
+}
+.hr_width{
+    width: 441px;
+    border: 1px dashed #959595;
+}
+em{font-style: normal;}
+em:before{
+    content:"|";
+}
+em:after{
+    content:"|";
+}
+#new li a{color:#434343;
+    font-size: 14px;
+}
+#new li a:hover{
+    color: #f00;
+}
+.img_w{
+    width: 83px;
+    height: 83px;
+}
+ul.border-bottom li div p a{color: #000;}
+ul.border-bottom li div p a:hover{color: #f00;}
+.my_btn{
+    background: #fff;
+    color: #666;
+    border: 1px solid #d6d6d6;
+    width: 100px;
+    height: 24px;
+    line-height: 25px;
+    text-align: center;
+    font-size: 14px;
+}
+.my_btn:hover{
+    background: #f00;
+    color: #fff;
+}
+.my_margin{margin-left:47.5px; }
+.img_size{
+    width: 222px;
+    height: 220px;
+}
+.one ul li a p{
+    top:170px;
+    width: 222px;
+    height:50px ;
+    color: #fff;
+    font-size: 14px;
+    background-color: rgba(0,0,0,0.4);
+    transition: all 0.5s linear;
+}
+.one ul li a p:hover,.one ul li a img:hover{
+    color:#f00;
+    background-color: rgba(0,0,0,0.2);
+}
+.one{width:103%;}
+.carousel-control-prev,
+.carousel-control-next{
+    width:3%;height:13%;
+    background:#aaa;
+    top:40%;
+    border-radius:0.25rem;
+}
+#icon a{margin:70px 900px;}
+#icon1 a{margin: 70px -210px;}
+.my_mig{height: 300px;}
+.pet_a a{color: #000;font-size: 18px;}
+
+
+
+.my_p{
+    position: relative;
+}
+/*.zan{*/
+    /*position: absolute;*/
+    /*top:265px;*/
+    /*height: 35px;*/
+    /*font-size: 14px;*/
+    /*background-color: rgba(0,0,0,0.4);*/
+/*}*/

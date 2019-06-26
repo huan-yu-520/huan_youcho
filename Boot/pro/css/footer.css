@@ -1,0 +1,20 @@
+.foot_bg{
+    background: #eee;
+    border: 1px solid #ddd;
+}
+.p_width{width:72px;}
+.button_a:hover{text-decoration: none;}
+#u1 .breadcrumb-item + .breadcrumb-item::before{
+    content: "|";
+}
+.breadcrumb_a{color: #000;
+}
+.breadcrumb_a:hover{
+    color: #f00;
+    text-decoration: none;
+}
+#u2 .breadcrumb-item + .breadcrumb-item::before{
+    content: " ";
+}
+#u2 .breadcrumb-item a{color: #aaa;}
+.my_img{width: 50px;}

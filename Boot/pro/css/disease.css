@@ -1,0 +1,118 @@
+.caption {
+    line-height: 40px;
+    height: 40px;
+    text-align: center;
+    padding-top: 0px;
+    padding: 0 2%;
+    color: #fff;
+    font-size: 14px;
+    width: 100%;
+    position: absolute;
+    top: 105px;
+    background-color: rgba(0,0,0,0.4);
+}
+.caption:hover{
+    color: #ff0000;
+    background-color: rgba(0,0,0,0.2);
+}
+.pos_rel .filter-menu {
+    margin-left: 175px;
+    margin-top: 5px;
+}
+.pet-letter {
+    padding: 5px 0px 0px 0;
+    font-size: 16px;
+}
+.pet-letter a.current {
+    background-color: #ff904e;
+    color: #fff;
+}
+.pet-letter .all {
+    font-size: 12px;
+}
+.pet-letter a{
+    padding: 0 4.5px;
+    color: #000;
+}
+.pet-letter a:hover{
+    color:#ff904e;
+}
+.sick-news-list li {
+    padding: 15px 0px 15px 0;
+    border-bottom: 1px dashed #ddd;
+    font-size: 14px;
+    position: relative;
+}
+.sick-news-list li:before {
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    top: 27px;
+    border-radius: 30px;
+    content: "";
+    background-color: #f2473d;
+}
+.sick-news-list .title {
+    line-height: 30px;
+    font-size: 16px;
+    padding-left: 14px;
+}
+.follow{
+    margin-left: 134px;
+    font-size: 14px;
+}
+.d-flex a{
+    color: #999;
+}
+.examine-pets .item {
+    width: 328px;
+    height: 373px;
+    float: left;
+    background-repeat: no-repeat;
+}
+.dog-part {
+    background-image: url(http://test.res.ycnuli.com/res/web/images/sick/examine-dog.png);
+}
+.part-list a {
+    width: 63px;
+    height: 34px;
+    float: left;
+    margin: 2px 200px 30px 0;
+    display: block;
+    text-indent: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    background-color: rgba(0,0,0,0);
+}
+a.current{
+    color: #f00;
+}
+.category-list .name {
+    max-width: 80px;
+    font-size: 16px;
+    color: #ff904e;
+    height: 35px;
+}
+.hor{
+    display: inline-block;
+    vertical-align: middle;
+}
+.category-list a {
+    padding: 8px;
+    margin: 0px 8px 8px 0px;
+    display: inline-block;
+    float: left;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    color: #999;
+}
+.category-list a:hover{
+    background: #f00;
+    color: #fff;
+}
+#dis{
+    padding-bottom: 100px;
+}
+.title  a:hover{
+    color: #f00;
+}
